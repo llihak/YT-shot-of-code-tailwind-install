@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.wtw {
+	line-height: 1.11111;
+}
+
+.what-the-hell {
+	line-height: 2.222222;
+}
